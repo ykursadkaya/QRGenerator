@@ -1,0 +1,3 @@
+# QRGenerator
+
+IntelliJ IDEA Project
